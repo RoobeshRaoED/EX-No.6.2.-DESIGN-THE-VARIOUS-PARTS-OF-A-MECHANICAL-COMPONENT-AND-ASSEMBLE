@@ -51,7 +51,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 
-![img](EX%206.2%20ROOBESH%20RAO.E.D%20IMG.jpg)
 
+![](EX%206.2%20%20ROOBESH%20RAO.E.D%20IMG.jpg)
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
